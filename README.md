@@ -1,3 +1,5 @@
-# crypton-icebox-whitepaper
+![logo](frostbox.png)
 
-(Read White Paper)[FROSTBOX.pdf]
+### [Read White Paper](FROSTBOX.pdf) :point_left:
+
+
